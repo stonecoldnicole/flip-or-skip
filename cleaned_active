@@ -1,0 +1,374 @@
+,SALE TYPE,PROPERTY TYPE,ADDRESS,CITY,ZIP OR POSTAL CODE,PRICE,BEDS,BATHS,LOCATION,SQUARE FEET,LOT SIZE,YEAR BUILT,DAYS ON MARKET,$/SQUARE FEET,HOA/MONTH,LATITUDE,LONGITUDE
+0,MLS Listing,Single Family Residential,20334 Highpoint Pl,Canyon Country,91351.0,590000.0,4.0,2.0,CAN1 - Canyon Country 1,1577.0,18386.0,1988.0,3.0,374.0,0.0,34.4346968,-118.49084409999999
+1,MLS Listing,Single Family Residential,26339 Piazza Di Sarro,Newhall,91321.0,589000.0,3.0,2.5,NEW4 - Newhall 4,2125.0,33397.0,2014.0,34.0,277.0,193.0,34.3992709,-118.4842782
+2,MLS Listing,Single Family Residential,20538 Calhaven Dr,Saugus,91390.0,664900.0,5.0,4.0,BOUQ - Bouquet Canyon,2461.0,6490.0,1979.0,47.0,270.0,0.0,34.461803100000004,-118.4953132
+3,MLS Listing,Single Family Residential,19103 Pleasantdale St,Canyon Country,91351.0,435000.0,3.0,1.0,CAN1 - Canyon Country 1,920.0,5866.0,1961.0,1.0,473.0,0.0,34.4211116,-118.46885470000001
+4,MLS Listing,Condo/Co-op,22814 Banyan Pl #12,Saugus,91390.0,400000.0,2.0,2.5,COPN - Copper Hill North,1059.0,224705.0,1988.0,1.0,378.0,205.0,34.4628182,-118.53422749999999
+5,MLS Listing,Townhouse,21705 Bene Dr,Saugus,91350.0,525000.0,3.0,3.0,VMET - Villa Metro,1696.0,20542.0,2014.0,2.0,310.0,219.0,34.417010100000006,-118.51573559999999
+6,MLS Listing,Single Family Residential,26809 Grommon Way,Canyon Country,91351.0,529900.0,3.0,2.0,RBGL - Rainbow Glen,1392.0,112863.0,1999.0,2.0,381.0,148.0,34.4154753,-118.4885404
+7,MLS Listing,Townhouse,28368 Santa Rosa Ln,Saugus,91350.0,474998.0,3.0,3.0,PLUM - Plum Canyon,1850.0,140552.0,2006.0,2.0,257.0,180.0,34.444146,-118.476652
+8,MLS Listing,Single Family Residential,20503 Sugarberry Ct,Saugus,91350.0,609990.0,4.0,3.0,FEKS - Five Knolls,2431.0,53234.0,2016.0,2.0,251.0,215.0,34.433886,-118.49581200000002
+9,MLS Listing,Single Family Residential,28721 Placerview,Saugus,91390.0,644900.0,3.0,3.0,COPN - Copper Hill North,2420.0,48586.0,2001.0,2.0,266.0,95.0,34.4662794,-118.50991140000001
+10,MLS Listing,Single Family Residential,19310 Lonerock St,Canyon Country,91351.0,500000.0,3.0,2.0,CAN1 - Canyon Country 1,1080.0,6111.0,1961.0,3.0,463.0,0.0,34.422039500000004,-118.47266429999999
+11,MLS Listing,Single Family Residential,22715 Buckeye Ct,Saugus,91390.0,650000.0,4.0,2.5,COPN - Copper Hill North,1851.0,5718.0,1988.0,3.0,351.0,0.0,34.4694507,-118.5320777
+12,MLS Listing,Condo/Co-op,20008 Avenue Of The Oaks,Newhall,91321.0,390000.0,2.0,2.0,NEW4 - Newhall 4,893.0,595676.0,1981.0,3.0,437.0,365.0,34.4030702,-118.48601509999999
+13,MLS Listing,Single Family Residential,19160 Avenue Of The Oaks Unit D,Newhall,91321.0,265000.0,2.0,1.5,NEW4 - Newhall 4,864.0,507360.0,1963.0,3.0,307.0,359.0,34.4022215,-118.4703383
+14,MLS Listing,Townhouse,28130 Bobwhite Cir #47,Saugus,91350.0,399000.0,2.0,1.5,BOUQ - Bouquet Canyon,1117.0,284408.0,1989.0,3.0,357.0,302.0,34.453245,-118.512083
+16,MLS Listing,Condo/Co-op,20000 Plum Canyon Rd #1813,Saugus,91350.0,430000.0,3.0,2.5,PLUM - Plum Canyon,1370.0,79454.0,2001.0,3.0,314.0,294.0,34.4455969,-118.48423590000002
+17,MLS Listing,Single Family Residential,18640 Bainbury St,Canyon Country,91351.0,530000.0,3.0,2.0,699 - Not Defined,1485.0,7085.0,1963.0,3.0,357.0,0.0,34.425884499999995,-118.46210220000002
+18,MLS Listing,Single Family Residential,28287 Cedar Ln,Saugus,91350.0,524800.0,4.0,2.5,COPN - Copper Hill North,1867.0,485513.0,2002.0,4.0,281.0,85.0,34.4573017,-118.5115338
+19,MLS Listing,Townhouse,27967 Avalon Dr,Canyon Country,91351.0,375000.0,2.0,2.5,CAN1 - Canyon Country 1,1120.0,89711.0,2010.0,4.0,335.0,309.0,34.422391,-118.45378000000001
+20,MLS Listing,Single Family Residential,28630 Coloma Ct,Saugus,91390.0,600000.0,4.0,3.0,COPN - Copper Hill North,2458.0,3542.0,2000.0,4.0,244.0,95.0,34.464923600000006,-118.50993249999999
+21,MLS Listing,Single Family Residential,21670 Rose Canyon Ln,Saugus,91390.0,649900.0,3.0,2.0,COPN - Copper Hill North,2254.0,8483.0,1998.0,4.0,288.0,0.0,34.4610511,-118.5144498
+22,MLS Listing,Single Family Residential,16703 Solana Ln,Canyon Country,91351.0,699900.0,4.0,2.0,CAN1 - Canyon Country 1,1806.0,106027.0,1953.0,4.0,388.0,0.0,34.4573574,-118.42719469999999
+24,MLS Listing,Townhouse,25406 Parkwood Ln,Saugus,91350.0,499000.0,4.0,3.0,CJRC - Circle J Ranch,1790.0,9599.0,2001.0,5.0,279.0,275.0,34.397334,-118.53631200000001
+25,MLS Listing,Single Family Residential,26132 Rene Veluzzat Way,Newhall,91321.0,649950.0,3.0,3.0,NEW4 - Newhall 4,2194.0,5382.0,2005.0,5.0,296.0,199.0,34.3965865,-118.47766000000001
+26,MLS Listing,Condo/Co-op,26707 Oak Branch Cir,Newhall,91321.0,365000.0,2.0,2.0,NEW4 - Newhall 4,1266.0,562974.0,1966.0,5.0,288.0,340.0,34.406639,-118.47341499999999
+27,MLS Listing,Single Family Residential,16733 La Veda Ave,Canyon Country,91387.0,649950.0,5.0,3.0,CAN2 - Canyon Country 2,2585.0,7458.0,1966.0,5.0,251.0,45.0,34.427122600000004,-118.4281987
+28,MLS Listing,Single Family Residential,22537 La Rochelle Dr,Saugus,91350.0,515000.0,3.0,2.0,BOUQ - Bouquet Canyon,1280.0,8146.0,1960.0,6.0,402.0,0.0,34.4506674,-118.5308463
+29,MLS Listing,Single Family Residential,19329 Cedarcreek St,Canyon Country,91351.0,539000.0,4.0,2.0,CAN1 - Canyon Country 1,1600.0,6100.0,1962.0,6.0,337.0,0.0,34.4255794,-118.47292420000001
+30,MLS Listing,Single Family Residential,22046 Conway Pl,Saugus,91350.0,679500.0,4.0,3.0,BOUQ - Bouquet Canyon,2346.0,5789.0,1988.0,6.0,290.0,0.0,34.458191,-118.5220439
+31,MLS Listing,Condo/Co-op,19859 Sandpiper Pl #115,Outside Area (Inside Ca),91321.0,335000.0,3.0,2.0,699 - Not Defined,970.0,236676.0,1988.0,6.0,345.0,250.0,34.3983273,-118.4818878
+32,MLS Listing,Single Family Residential,29045 Raintree Ln,Saugus,91390.0,639500.0,5.0,3.0,COPN - Copper Hill North,2485.0,12095.0,1999.0,8.0,257.0,145.0,34.477200700000004,-118.5322601
+33,MLS Listing,Condo/Co-op,21307 Trumpet Dr #201,Newhall,91321.0,299900.0,2.0,2.0,NEW5 - Newhall Area 5,819.0,545824.0,1990.0,9.0,366.0,323.0,34.3746001,-118.5100487
+34,MLS Listing,Single Family Residential,17801 Maplehurst Pl,Canyon Country,91387.0,675000.0,4.0,3.0,CAN3 - Canyon Country 3,2531.0,5516.0,2000.0,9.0,267.0,114.0,34.3973097,-118.4472959
+35,MLS Listing,Single Family Residential,27581 Linda Joyce Dr,Saugus,91350.0,500000.0,4.0,2.0,BOUQ - Bouquet Canyon,1471.0,4234.0,1971.0,10.0,340.0,39.0,34.4421547,-118.511371
+37,MLS Listing,Townhouse,20041 Avenue Of The Oaks,Newhall,91321.0,469500.0,3.0,2.0,NEW4 - Newhall 4,1419.0,516812.0,1985.0,10.0,331.0,365.0,34.404467,-118.48725870000001
+39,MLS Listing,Single Family Residential,28391 Stansfield Ln,Saugus,91350.0,629999.0,4.0,3.0,PLUM - Plum Canyon,2424.0,4748.0,2003.0,11.0,260.0,82.0,34.4443616,-118.4808078
+40,MLS Listing,Townhouse,25404 Great Lake Ct,Saugus,91350.0,454900.0,3.0,3.0,CJRC - Circle J Ranch,1684.0,10582.0,2001.0,11.0,270.0,275.0,34.398084000000004,-118.53549199999999
+41,MLS Listing,Single Family Residential,14819 Begonias Ln,Canyon Country,91387.0,565000.0,3.0,2.0,CAN2 - Canyon Country 2,1583.0,6554.0,1982.0,11.0,357.0,0.0,34.437104999999995,-118.3944708
+42,MLS Listing,Condo/Co-op,28021 Sarabande Ln #1208,Canyon Country,91387.0,319999.0,2.0,2.0,CAN2 - Canyon Country 2,964.0,44952.0,1986.0,11.0,332.0,317.0,34.422619700000006,-118.4504571
+43,MLS Listing,Single Family Residential,27944 Lost Springs Rd,Canyon Country,91387.0,579998.0,4.0,2.0,CAN2 - Canyon Country 2,1839.0,10925.0,1961.0,11.0,315.0,0.0,34.4198011,-118.4442615
+44,MLS Listing,Single Family Residential,29318 Begonias Ln,Canyon Country,91387.0,619900.0,4.0,2.5,CAN2 - Canyon Country 2,2158.0,14009.0,1991.0,11.0,287.0,0.0,34.439152299999996,-118.3907736
+45,MLS Listing,Condo/Co-op,18758 Mandan St #1611,Canyon Country,91351.0,314999.0,3.0,2.0,CAN1 - Canyon Country 1,1031.0,179997.0,1984.0,11.0,306.0,325.0,34.4135057,-118.4621115
+46,MLS Listing,Condo/Co-op,18604 Utopia Ct,Canyon Country,91351.0,610000.0,3.0,3.0,CAN1 - Canyon Country 1,2526.0,56408.0,1988.0,11.0,241.0,185.0,34.420604,-118.458717
+47,MLS Listing,Condo/Co-op,19154 Avenue Of The Oaks Unit D,Newhall,91321.0,255000.0,2.0,1.0,NEW4 - Newhall 4,806.0,507360.0,1963.0,12.0,316.0,359.0,34.4025184,-118.4703504
+48,MLS Listing,Condo/Co-op,24412 Valle Del Oro #202,Newhall,91321.0,307000.0,2.0,2.0,NEW5 - Newhall Area 5,888.0,132273.0,1990.0,12.0,346.0,391.0,34.3780945,-118.51123259999999
+49,MLS Listing,Single Family Residential,19619 Griffith Dr,Saugus,91350.0,695000.0,4.0,3.0,PLUM - Plum Canyon,2532.0,10493.0,2016.0,12.0,274.0,182.0,34.451173299999994,-118.4777968
+50,MLS Listing,Single Family Residential,19913 Christopher Ln,Saugus,91350.0,565000.0,3.0,3.0,PLUM - Plum Canyon,2118.0,4776.0,2006.0,12.0,267.0,95.0,34.4432135,-118.4851874
+51,MLS Listing,Single Family Residential,20001 Shadow Island Dr,Canyon Country,91351.0,204999.0,3.0,2.0,CAN1 - Canyon Country 1,1730.0,3500.0,1990.0,12.0,118.0,1257.0,34.4280092,-118.4833272
+52,MLS Listing,Single Family Residential,21513 Rosedell Dr,Saugus,91350.0,520000.0,3.0,2.0,BOUQ - Bouquet Canyon,1600.0,5550.0,1984.0,12.0,325.0,0.0,34.44537879999999,-118.51136409999998
+53,MLS Listing,Single Family Residential,27831 Lost Springs Rd,Canyon Country,91387.0,430000.0,3.0,2.0,CAN2 - Canyon Country 2,1202.0,7683.0,1964.0,13.0,358.0,0.0,34.417404499999996,-118.44476350000001
+55,MLS Listing,Single Family Residential,20546 Brookie Ln,Saugus,91350.0,610000.0,4.0,3.0,PLUM - Plum Canyon,2371.0,8917.0,2013.0,13.0,257.0,95.0,34.4440174,-118.4963182
+56,MLS Listing,Condo/Co-op,19207 Avenue Of The Oaks Unit B,Newhall,91321.0,299000.0,2.0,2.0,Newhall 4,864.0,281338.0,1963.0,13.0,346.0,369.0,34.403494,-118.472219
+58,MLS Listing,Single Family Residential,28402 Stansfield Ln,Saugus,91350.0,665000.0,4.0,2.5,PLUM - Plum Canyon,2800.0,5515.0,2003.0,13.0,238.0,88.0,34.4445001,-118.4802604
+59,MLS Listing,Single Family Residential,28771 Kathleen Ave,Saugus,91390.0,679999.0,4.0,3.0,BOUQ - Bouquet Canyon,2492.0,18573.0,1990.0,13.0,273.0,0.0,34.4660542,-118.4921898
+60,MLS Listing,Condo/Co-op,18209 Sierra #112,Canyon Country,91351.0,285000.0,2.0,2.0,CAN1 - Canyon Country 1,795.0,312806.0,1987.0,14.0,358.0,330.0,34.4210025,-118.45478689999999
+63,MLS Listing,Single Family Residential,20061 Carson Ct,Saugus,91390.0,649000.0,4.0,2.75,BOUQ - Bouquet Canyon,2134.0,5074.0,1988.0,14.0,304.0,0.0,34.4609286,-118.48673840000001
+64,MLS Listing,Condo/Co-op,22151 Barrington Way,Saugus,91350.0,499000.0,5.0,4.0,RVLG - River Village,2542.0,13769.0,2015.0,14.0,196.0,314.0,34.4279691,-118.51140929999998
+66,MLS Listing,Single Family Residential,26281 Rainbow Glen Dr,Newhall,91321.0,395000.0,2.0,2.0,NEW4 - Newhall 4,893.0,595676.0,1981.0,16.0,442.0,365.0,34.4026362,-118.4852189
+67,MLS Listing,Condo/Co-op,27240 Luther Dr #515,Canyon Country,91351.0,260000.0,1.0,1.0,CAN1 - Canyon Country 1,652.0,188382.0,1984.0,16.0,399.0,245.0,34.4133138,-118.4633947
+69,MLS Listing,Single Family Residential,28029 Eagle Peak Ave,Canyon Country,91387.0,639000.0,4.0,3.0,CAN2 - Canyon Country 2,2136.0,10429.0,1997.0,17.0,299.0,0.0,34.4216954,-118.43723419999999
+70,MLS Listing,Condo/Co-op,20334 Rue Crevier #619,Canyon Country,91351.0,325000.0,2.0,2.0,RBGL - Rainbow Glen,910.0,532660.0,1986.0,17.0,357.0,380.0,34.4183989,-118.49055590000002
+71,MLS Listing,Townhouse,18842 Vista Del Canon Unit D,Newhall,91321.0,359900.0,2.0,3.0,NEW4 - Newhall 4,1075.0,112109.0,1990.0,18.0,335.0,350.0,34.4022239,-118.466866
+72,MLS Listing,Townhouse,24474 Valle Del Oro #101,Newhall,91321.0,324990.0,2.0,2.0,NEW5 - Newhall Area 5,943.0,454004.0,1990.0,18.0,345.0,343.0,34.3772149,-118.50809579999999
+73,MLS Listing,Single Family Residential,32710 Wagon Wheel Rd,Agua Dulce,91390.0,680000.0,4.0,2.0,ADUL - Agua Dulce,2099.0,55802.0,1980.0,18.0,324.0,0.0,34.488677200000005,-118.36584930000001
+74,MLS Listing,Condo/Co-op,26322 Oak Highland Dr Unit B,Newhall,91321.0,329900.0,2.0,2.0,NEW4 - Newhall 4,851.0,592244.0,1974.0,18.0,388.0,386.0,34.399417299999996,-118.47566529999999
+75,MLS Listing,Single Family Residential,19032 Delight St,Canyon Country,91351.0,519999.0,4.0,1.5,CAN1 - Canyon Country 1,1720.0,6398.0,1962.0,18.0,302.0,0.0,34.423761299999995,-118.46908290000002
+77,MLS Listing,Single Family Residential,15958 Thompson Rnch,Canyon Country,91387.0,636000.0,4.0,3.5,0,3044.0,819030.4232954546,2006.0,18.0,209.0,247.0,34.4387741,-118.41500959999999
+78,MLS Listing,Single Family Residential,27458 Garza Dr,Saugus,91350.0,663000.0,3.0,2.5,BOUQ - Bouquet Canyon,2833.0,17433.0,1972.0,19.0,234.0,0.0,34.4451713,-118.5267872
+80,MLS Listing,Single Family Residential,19701 Kamm Ct,Canyon Country,91351.0,535000.0,3.0,2.5,Rainbow Glen,1734.0,237721.0,2016.0,19.0,309.0,225.0,34.41681222,-118.4821473
+81,MLS Listing,Single Family Residential,22805 Garzota Dr,Valencia,91354.0,550000.0,3.0,2.0,VALN - Valencia North,2032.0,3312.0,1975.0,19.0,271.0,297.0,34.437176,-118.53451299999999
+82,MLS Listing,Single Family Residential,28233 Clementine Dr,Saugus,91350.0,498000.0,3.0,3.0,PLUM - Plum Canyon,1577.0,189635.0,2006.0,19.0,316.0,280.0,34.443833000000005,-118.487953
+83,MLS Listing,Condo/Co-op,17993 Lost Canyon Rd #143,Canyon Country,91387.0,430000.0,3.0,2.0,CAN3 - Canyon Country 3,1280.0,64715.0,2004.0,19.0,336.0,317.0,34.402315,-118.45187720000001
+85,MLS Listing,Single Family Residential,21010 Oakriver Ln,Newhall,91321.0,675000.0,4.0,3.0,699 - Not Defined,2467.0,8424.0,2001.0,20.0,274.0,190.0,34.37071629999999,-118.5053044
+86,MLS Listing,Condo/Co-op,27620 Susan Beth Way Unit J,Saugus,91350.0,329999.0,2.0,2.0,BOUQ - Bouquet Canyon,939.0,65885.0,1984.0,20.0,351.0,325.0,34.4443657,-118.50969309999999
+87,MLS Listing,Single Family Residential,30056 Calle Cerritos,Canyon Country,91351.0,600000.0,3.0,2.0,CAN1 - Canyon Country 1,1685.0,108840.0,1985.0,20.0,356.0,0.0,34.4559463,-118.42742290000001
+88,MLS Listing,Condo/Co-op,27117 Yearling Way,Saugus,91350.0,553900.0,1.0,1.0,Canyon Country 1,1840.0,114649920.0,2019.0,20.0,301.0,190.0,34.428532000000004,-118.49916200000001
+89,MLS Listing,Condo/Co-op,17963 Lost Canyon Rd #57,Canyon Country,91387.0,385000.0,2.0,2.0,CAN3 - Canyon Country 3,1022.0,36105.0,2004.0,20.0,377.0,317.0,34.402407000000004,-118.4530289
+90,MLS Listing,Single Family Residential,22711 Flower Fields Ave,Saugus,91350.0,659500.0,4.0,2.0,CJRC - Circle J Ranch,2001.0,8083.0,2000.0,20.0,330.0,0.0,34.395891299999995,-118.5368663
+91,MLS Listing,Condo/Co-op,18102 Erik Ct #551,Canyon Country,91387.0,386000.0,3.0,2.0,699 - Not Defined,1008.0,55012.0,1993.0,20.0,383.0,300.0,34.4063182,-118.45205120000001
+93,MLS Listing,Single Family Residential,19916 Towhee Ct #2,Canyon Country,91351.0,553000.0,3.0,2.5,RBGL - Rainbow Glen,1561.0,113100.0,1989.0,20.0,354.0,168.0,34.4136067,-118.48554340000001
+94,MLS Listing,Single Family Residential,22120 Grovepark Dr,Saugus,91350.0,619000.0,4.0,3.0,BOUQ - Bouquet Canyon,2407.0,6482.0,1989.0,21.0,257.0,52.0,34.4470873,-118.5226825
+95,MLS Listing,Condo/Co-op,19866 Collins Rd,Canyon Country,91351.0,399000.0,4.0,3.0,RBGL - Rainbow Glen,1733.0,295931.0,1986.0,21.0,230.0,175.0,34.411412,-118.484146
+96,MLS Listing,Single Family Residential,30452 Sunrose Pl,Canyon Country,91387.0,495000.0,3.0,2.0,CAN2 - Canyon Country 2,1437.0,8330.0,1994.0,21.0,344.0,90.0,34.4575009,-118.3881261
+98,MLS Listing,Single Family Residential,20110 Canyon View Dr,Canyon Country,91351.0,164500.0,3.0,2.0,CAN1 - Canyon Country 1,1482.0,3500.0,1998.0,21.0,111.0,0.0,34.4290852,-118.48660359999998
+99,MLS Listing,Condo/Co-op,20554 Martingale Pl,Saugus,91350.0,643487.0,3.0,3.0,Canyon Country 1,2458.0,137518920.0,2019.0,21.0,262.0,190.0,34.428621,-118.499049
+100,MLS Listing,Single Family Residential,26642 Purple Martin Ct,Canyon Country,91351.0,559900.0,4.0,2.5,RBGL - Rainbow Glen,1762.0,278364.0,1992.0,21.0,318.0,168.0,34.41230170000001,-118.48655079999999
+101,MLS Listing,Condo/Co-op,22723 Copper Hill Dr #138,Saugus,91350.0,435000.0,3.0,2.5,COPN - Copper Hill North,1344.0,84532.0,1990.0,23.0,324.0,238.0,34.460948200000004,-118.53353659999999
+102,MLS Listing,Single Family Residential,29268 Gary Dr,Canyon Country,91387.0,560000.0,4.0,3.0,CAN2 - Canyon Country 2,1911.0,126354.0,1988.0,24.0,293.0,197.0,34.4376318,-118.4070682
+103,MLS Listing,Single Family Residential,29318 Snapdragon,Canyon Country,91387.0,625000.0,4.0,2.75,CAN2 - Canyon Country 2,2530.0,12829.0,1968.0,24.0,247.0,0.0,34.4389862,-118.40501429999999
+104,MLS Listing,Townhouse,26911 Avenida Terraza,Saugus,91350.0,412900.0,3.0,3.0,BOUQ - Bouquet Canyon,1285.0,179862.0,1973.0,24.0,321.0,310.0,34.436118,-118.5306
+105,MLS Listing,Single Family Residential,28153 Newbird Dr,Saugus,91350.0,548000.0,3.0,2.0,BOUQ - Bouquet Canyon,1471.0,6370.0,1968.0,24.0,373.0,0.0,34.4541206,-118.5006957
+106,MLS Listing,Single Family Residential,17479 Honey Maple St,Canyon Country,91387.0,699000.0,5.0,3.0,CAN3 - Canyon Country 3,3215.0,6915.0,2006.0,24.0,217.0,80.0,34.405528000000004,-118.4393561
+108,MLS Listing,Townhouse,18007 River Cir #5,Canyon Country,91387.0,349900.0,2.0,2.5,CAN3 - Canyon Country 3,1127.0,102655.0,1984.0,25.0,310.0,327.0,34.415794500000004,-118.44622759999999
+109,MLS Listing,Condo/Co-op,19204 Avenue Of The Oaks Unit F,Newhall,91321.0,237999.0,1.0,1.0,NEW4 - Newhall 4,666.0,507360.0,1963.0,25.0,357.0,359.0,34.402010700000005,-118.47064329999999
+110,MLS Listing,Single Family Residential,20043 Canyon View Dr,Canyon Country,91351.0,227900.0,3.0,2.0,CAN1 - Canyon Country 1,1845.0,3698.0,1990.0,25.0,124.0,0.0,34.4280336,-118.4852381
+111,MLS Listing,Condo/Co-op,18028 Saratoga Way #563,Canyon Country,91387.0,320000.0,3.0,2.0,CAN2 - Canyon Country 2,934.0,68949.0,1984.0,26.0,343.0,317.0,34.420768100000004,-118.4501699
+112,MLS Listing,Condo/Co-op,18024 Saratoga Way #550,Canyon Country,91387.0,322000.0,2.0,2.0,CAN2 - Canyon Country 2,848.0,68949.0,1984.0,26.0,380.0,317.0,34.420768100000004,-118.4501699
+113,MLS Listing,Single Family Residential,28757 Woodside Dr,Saugus,91390.0,625000.0,4.0,3.0,BOUQ - Bouquet Canyon,2175.0,14676.0,1997.0,26.0,287.0,0.0,34.4617259,-118.4892475
+115,MLS Listing,Condo/Co-op,26853 Claudette St #147,Canyon Country,91351.0,375000.0,3.0,2.0,RBGL - Rainbow Glen,1003.0,532660.0,1986.0,27.0,374.0,380.0,34.420644,-118.49207990000001
+116,MLS Listing,Townhouse,22753 Shadow Cliff Ct,Saugus,91350.0,439900.0,3.0,3.0,CJRC - Circle J Ranch,1373.0,8936.0,2000.0,27.0,320.0,275.0,34.396997999999996,-118.53799199999999
+117,MLS Listing,Single Family Residential,27536 Glasser Ave,Canyon Country,91351.0,625000.0,4.0,2.5,CAN1 - Canyon Country 1,2463.0,6601.0,1965.0,27.0,254.0,0.0,34.4247459,-118.47998670000001
+118,MLS Listing,Condo/Co-op,28071 Robin Ave,Saugus,91350.0,285000.0,2.0,1.0,BOUQ - Bouquet Canyon,799.0,125545.0,1976.0,27.0,357.0,265.0,34.452326,-118.498085
+120,MLS Listing,Single Family Residential,19948 Christopher Ln,Saugus,91350.0,529000.0,3.0,3.0,PLUM - Plum Canyon,2174.0,4538.0,2006.0,29.0,243.0,95.0,34.4422418,-118.48651029999999
+121,MLS Listing,Single Family Residential,19614 Green Mountain Dr,Newhall,91321.0,565000.0,4.0,1.5,NEW4 - Newhall 4,1544.0,9754.0,1968.0,30.0,366.0,0.0,34.393848,-118.47825309999999
+122,MLS Listing,Single Family Residential,28607 Macklin Ave,Canyon Country,91387.0,650000.0,4.0,2.0,CAN2 - Canyon Country 2,2107.0,11764.0,1976.0,30.0,308.0,45.0,34.427896399999995,-118.4245022
+123,MLS Listing,Single Family Residential,28548 Bud Ct,Saugus,91350.0,574900.0,3.0,2.0,BOUQ - Bouquet Canyon,1562.0,9706.0,1979.0,31.0,368.0,0.0,34.460497600000004,-118.49558020000002
+124,MLS Listing,Single Family Residential,14825 Begonias Ln,Canyon Country,91387.0,590000.0,4.0,3.0,CAN2 - Canyon Country 2,2078.0,8908.0,1982.0,31.0,284.0,0.0,34.437514799999995,-118.39442520000001
+126,MLS Listing,Single Family Residential,19983 Northcliff Dr,Canyon Country,91351.0,172900.0,3.0,2.0,CAN1 - Canyon Country 1,1482.0,3698.0,2000.0,32.0,117.0,0.0,34.4301727,-118.485956
+127,MLS Listing,Single Family Residential,22612 Pamplico Dr,Saugus,91350.0,540000.0,4.0,2.0,BOUQ - Bouquet Canyon,1650.0,7488.0,1976.0,33.0,327.0,0.0,34.4509135,-118.5317584
+128,MLS Listing,Condo/Co-op,18203 Flynn Dr #5111,Canyon Country,91387.0,395000.0,3.0,2.0,CAN1 - Canyon Country 1,1008.0,27393.0,1993.0,33.0,392.0,260.0,34.406617600000004,-118.4525065
+129,MLS Listing,Single Family Residential,19001 Saddleback Ridge Rd,Canyon Country,91351.0,649999.0,3.0,2.5,CAN1 - Canyon Country 1,2303.0,23232.0,1999.0,33.0,282.0,75.0,34.4312453,-118.4676685
+130,MLS Listing,Single Family Residential,14713 Sundance Pl,Canyon Country,91387.0,609000.0,5.0,3.0,CAN2 - Canyon Country 2,2450.0,5794.0,1991.0,33.0,249.0,145.0,34.451098200000004,-118.3931471
+131,MLS Listing,Single Family Residential,19607 Lanfranca Dr,Saugus,91350.0,669000.0,4.0,2.0,PLUM - Plum Canyon,1943.0,8140.0,2015.0,34.0,344.0,140.0,34.4503619,-118.4780496
+132,MLS Listing,Condo/Co-op,27124 Marisa Dr,Canyon Country,91387.0,499000.0,3.0,3.0,CAN1 - Canyon Country 1,1502.0,81227.0,2003.0,34.0,332.0,129.0,34.408025,-118.448254
+133,MLS Listing,Single Family Residential,27113 Red Cedar Way,Canyon Country,91387.0,599999.0,4.0,2.5,CAN3 - Canyon Country 3,2478.0,10714.0,2006.0,35.0,242.0,80.0,34.4072769,-118.4396071
+134,MLS Listing,Single Family Residential,22222 Oxford Ln,Saugus,91350.0,699900.0,4.0,3.0,CJRC - Circle J Ranch,1877.0,6280.0,1988.0,35.0,373.0,0.0,34.400477200000005,-118.5254076
+135,MLS Listing,Single Family Residential,14656 Laurel Ct,Canyon Country,91387.0,589000.0,4.0,3.0,CAN2 - Canyon Country 2,1852.0,7375.0,1994.0,35.0,318.0,90.0,34.4578978,-118.3915267
+138,MLS Listing,Single Family Residential,22075 Windham Way,Saugus,91350.0,590000.0,4.0,3.0,RVLG - River Village,2423.0,37506.0,2015.0,36.0,243.0,159.0,34.429500299999994,-118.50927340000001
+139,MLS Listing,Condo/Co-op,18121 Erik Ct #313,Canyon Country,91387.0,329000.0,2.0,2.0,CAN1 - Canyon Country 1,960.0,59668.0,1991.0,37.0,343.0,300.0,34.4071237,-118.4521715
+140,MLS Listing,Single Family Residential,19046 Vicci St,Canyon Country,91351.0,545000.0,4.0,2.0,Canyon Country 1,1388.0,6048.0,1961.0,37.0,393.0,0.0,34.4189984,-118.4680791
+141,MLS Listing,Single Family Residential,21208 Alaminos Dr,Saugus,91350.0,555000.0,3.0,2.0,BOUQ - Bouquet Canyon,1418.0,6599.0,1966.0,37.0,391.0,0.0,34.448743,-118.5075233
+142,MLS Listing,Single Family Residential,28635 Haskell Canyon Rd,Saugus,91390.0,679000.0,5.0,2.0,Copper Hill North,2254.0,12941.0,1999.0,38.0,301.0,0.0,34.4653482,-118.5133165
+144,MLS Listing,Single Family Residential,17867 Beneda Ln,Canyon Country,91351.0,394000.0,2.0,1.0,CAN1 - Canyon Country 1,1231.0,64348.0,1953.0,39.0,320.0,0.0,34.4265075,-118.44955459999998
+145,MLS Listing,Single Family Residential,30028 Abelia Rd,Canyon Country,91387.0,505000.0,3.0,2.0,SAND - Sand Canyon,1156.0,7859.0,1972.0,39.0,437.0,0.0,34.4509792,-118.389039
+146,MLS Listing,Townhouse,22134 Barrington Way,Saugus,91350.0,558800.0,5.0,4.0,RVLG - River Village,2624.0,22483.0,2015.0,39.0,213.0,314.0,34.427751,-118.510828
+147,MLS Listing,Single Family Residential,27838 Dexter Dr,Saugus,91350.0,570000.0,3.0,1.75,BOUQ - Bouquet Canyon,1512.0,8579.0,1985.0,39.0,377.0,0.0,34.4551836,-118.52747140000001
+148,MLS Listing,Single Family Residential,27700 Clio Ln,Canyon Country,91351.0,515000.0,3.0,2.5,CAN1 - Canyon Country 1,1759.0,119315.0,1999.0,39.0,293.0,170.0,34.422956,-118.46193799999999
+149,MLS Listing,Single Family Residential,29321 Hidden Oak Pl,Canyon Country,91387.0,649600.0,4.0,2.5,CAN2 - Canyon Country 2,2158.0,5200.0,1991.0,39.0,301.0,0.0,34.439462,-118.38986059999999
+150,MLS Listing,Single Family Residential,27342 Dewdrop Ave,Canyon Country,91351.0,510000.0,3.0,2.0,CAN1 - Canyon Country 1,1144.0,6111.0,1962.0,40.0,446.0,0.0,34.419625399999994,-118.4709534
+151,MLS Listing,Condo/Co-op,27925 Tyler Ln #739,Canyon Country,91387.0,325000.0,3.0,2.0,Canyon Country 2,948.0,61197.0,1984.0,40.0,343.0,317.0,34.4211766,-118.45096699999999
+153,MLS Listing,Single Family Residential,28852 Cedar Ridge Ct,Saugus,91390.0,699990.0,5.0,3.0,COPN - Copper Hill North,2896.0,6367.0,1999.0,42.0,242.0,145.0,34.4739131,-118.5354982
+154,MLS Listing,Single Family Residential,20023 Christopher Ln,Saugus,91350.0,565000.0,3.0,2.5,PLUM - Plum Canyon,2118.0,5370.0,2007.0,44.0,267.0,95.0,34.4425605,-118.4879245
+155,MLS Listing,Condo/Co-op,21308 Eucalyptus Way #202,Newhall,91321.0,325000.0,2.0,2.0,NEW5 - Newhall Area 5,943.0,243749.0,1990.0,46.0,345.0,400.0,34.3781446,-118.5097094
+156,MLS Listing,Single Family Residential,28684 Placerview,Saugus,91390.0,635000.0,4.0,3.0,COPN - Copper Hill North,2420.0,5576.0,2001.0,47.0,262.0,95.0,34.4654768,-118.5091374
+157,MLS Listing,Single Family Residential,27605 Beechwood Dr,Canyon Country,91351.0,515000.0,3.0,3.0,CAN1 - Canyon Country 1,1960.0,81243.0,2002.0,48.0,263.0,208.0,34.42111,-118.464101
+158,MLS Listing,Single Family Residential,27233 Marchland Ave,Canyon Country,91351.0,480000.0,3.0,1.0,CAN1 - Canyon Country 1,1080.0,6527.0,1961.0,48.0,444.0,0.0,34.416746,-118.46926599999999
+159,MLS Listing,Single Family Residential,28514 Santa Catarina Rd,Saugus,91350.0,587777.0,3.0,2.0,PLUM - Plum Canyon,1665.0,6071.0,2002.0,48.0,353.0,0.0,34.4520561,-118.4818571
+162,MLS Listing,Single Family Residential,29227 Orion Ln,Saugus,91390.0,649000.0,4.0,3.0,COPN - Copper Hill North,2734.0,5981.0,2004.0,52.0,237.0,125.0,34.4790234,-118.5224088
+164,MLS Listing,Single Family Residential,20534 Brookie Ln,Saugus,91350.0,599999.0,5.0,3.0,PLUM - Plum Canyon,2702.0,10145.0,2013.0,53.0,222.0,99.0,34.4439455,-118.49581640000001
+165,MLS Listing,Condo/Co-op,24436 Valle Del Oro #203,Newhall,91321.0,324950.0,2.0,2.0,NEW5 - Newhall Area 5,943.0,243749.0,1990.0,53.0,345.0,337.0,34.3781446,-118.5097094
+168,MLS Listing,Condo/Co-op,19162 Avenue Of The Oaks Unit A,Newhall,91321.0,279900.0,2.0,1.5,NEW4 - Newhall 4,864.0,507360.0,1963.0,55.0,324.0,369.0,34.402155900000004,-118.4704429
+171,MLS Listing,Single Family Residential,20061 Shadow Hills Ct,Saugus,91390.0,584900.0,3.0,2.0,BOUQ - Bouquet Canyon,1767.0,7486.0,1993.0,59.0,331.0,0.0,34.4634304,-118.48660159999999
+172,MLS Listing,Single Family Residential,22422 Poplar St,Saugus,91390.0,649000.0,4.0,3.0,COPN - Copper Hill North,2214.0,7057.0,1989.0,59.0,293.0,0.0,34.469621000000004,-118.52701529999999
+177,MLS Listing,Single Family Residential,27938 Featherstar Ave,Saugus,91350.0,615000.0,5.0,3.0,BOUQ - Bouquet Canyon,2374.0,10202.0,1967.0,65.0,259.0,0.0,34.4500329,-118.51047920000002
+178,MLS Listing,Condo/Co-op,28067 Robin Ave,Saugus,91350.0,307500.0,2.0,1.0,BOUQ - Bouquet Canyon,758.0,125545.0,1976.0,66.0,406.0,265.0,34.452326,-118.498085
+179,MLS Listing,Condo/Co-op,18103 Erik Ct #485,Canyon Country,91387.0,324900.0,2.0,1.75,CAN1 - Canyon Country 1,960.0,80890.0,1992.0,66.0,338.0,300.0,34.4069391,-118.451333
+180,MLS Listing,Condo/Co-op,18121 Erik Ct #315,Canyon Country,91387.0,327500.0,2.0,2.0,CAN1 - Canyon Country 1,960.0,59668.0,1991.0,66.0,341.0,300.0,34.4071237,-118.4521715
+182,MLS Listing,Single Family Residential,26810 Albion Way,Canyon Country,91351.0,584990.0,5.0,3.0,RBGL - Rainbow Glen,2157.0,58960.0,2016.0,68.0,271.0,225.0,34.41513587,-118.4801898
+184,MLS Listing,Condo/Co-op,19342 Avenue Of The Oaks,Newhall,91321.0,299000.0,2.0,2.0,NEW4 - Newhall 4,909.0,98501.0,1974.0,69.0,329.0,440.0,34.401966200000004,-118.4721054
+185,MLS Listing,Single Family Residential,15620 Meadow Dr,Canyon Country,91387.0,497000.0,3.0,2.0,CAN2 - Canyon Country 2,1198.0,168851.0,1989.0,72.0,415.0,197.0,34.431385299999995,-118.4089395
+186,MLS Listing,Single Family Residential,22740 Boxwood Ln,Santa Clarita,91390.0,587999.0,3.0,3.0,Santa Clarita,1592.0,10890.0,1988.0,73.0,369.0,0.0,34.473163799999995,-118.5328074
+187,MLS Listing,Condo/Co-op,20836 Plum Canyon Rd,Saugus,91350.0,300000.0,2.0,1.0,PLUM - Plum Canyon,834.0,54817.0,1972.0,73.0,360.0,265.0,34.45057,-118.49975800000001
+188,MLS Listing,Single Family Residential,22400 Bea Ct,Saugus,91350.0,555000.0,3.0,2.5,BOUQ - Bouquet Canyon,1465.0,5018.0,1990.0,73.0,379.0,52.0,34.4512403,-118.52486029999999
+191,MLS Listing,Single Family Residential,26850 Albion Way,Canyon Country,91351.0,528900.0,3.0,2.5,RBGL - Rainbow Glen,1817.0,74236.0,2016.0,74.0,291.0,225.0,34.41579891,-118.48110420000002
+194,MLS Listing,Single Family Residential,26910 Flowering Oak Pl,Canyon Country,91387.0,649000.0,5.0,3.0,CAN3 - Canyon Country 3,2578.0,5942.0,2005.0,75.0,252.0,80.0,34.4045866,-118.44111299999999
+195,MLS Listing,Condo/Co-op,26971 Flo Ln #153,Canyon Country,91351.0,315000.0,2.0,2.0,RBGL - Rainbow Glen,910.0,826239.0,1988.0,76.0,346.0,380.0,34.4209521,-118.4885746
+196,MLS Listing,Single Family Residential,17511 Poplar Point Ln,Canyon Country,91387.0,599990.0,3.0,3.0,CAN3 - Canyon Country 3,2086.0,22035.0,2004.0,77.0,288.0,84.0,34.409058,-118.44168799999998
+197,MLS Listing,Single Family Residential,18971 Lauren Ln,Saugus,91350.0,699995.0,3.0,2.5,PLUM - Plum Canyon,2502.0,8379.0,2019.0,80.0,280.0,183.0,34.445106,-118.46985600000001
+198,MLS Listing,Single Family Residential,29506 Blake Way,Canyon Country,91387.0,579000.0,4.0,3.0,CAN2 - Canyon Country 2,2444.0,249011.0,2005.0,80.0,237.0,150.0,34.4436348,-118.4275538
+200,MLS Listing,Single Family Residential,25928 San Clemente Dr,Newhall,91321.0,614999.0,4.0,3.0,NEW4 - Newhall 4,2291.0,7800.0,1993.0,82.0,268.0,210.0,34.3943917,-118.47232209999999
+201,MLS Listing,Single Family Residential,21938 Lynette Ln,Saugus,91350.0,670000.0,3.0,2.5,BOUQ - Bouquet Canyon,1858.0,10132.0,1988.0,82.0,361.0,0.0,34.456414200000005,-118.51885120000001
+202,MLS Listing,Single Family Residential,28710 Persimmon Ln,Saugus,91390.0,673000.0,4.0,3.0,COPN - Copper Hill North,2214.0,18993.0,1989.0,82.0,304.0,0.0,34.4688412,-118.5260119
+203,MLS Listing,Condo/Co-op,28109 Robin Ave,Saugus,91350.0,295000.0,2.0,1.0,BOUQ - Bouquet Canyon,758.0,125545.0,1976.0,85.0,389.0,265.0,34.452326,-118.498085
+204,MLS Listing,Single Family Residential,28344 Maxine Ln,Saugus,91350.0,672000.0,4.0,3.0,BOUQ - Bouquet Canyon,2804.0,5766.0,1991.0,85.0,240.0,16.0,34.459044299999995,-118.51422509999999
+205,MLS Listing,Condo/Co-op,20000 Plum Canyon Rd #1726,Saugus,91350.0,349500.0,2.0,2.0,PLUM - Plum Canyon,1001.0,79454.0,2001.0,86.0,349.0,274.0,34.4455969,-118.48423590000002
+206,MLS Listing,Single Family Residential,29621 Sturgeon Ct,Canyon Country,91387.0,674999.0,4.0,2.5,CAN2 - Canyon Country 2,3240.0,6399.0,2011.0,87.0,208.0,247.0,34.4447607,-118.4105369
+208,MLS Listing,Single Family Residential,22060 Windham Way,Saugus,91350.0,555000.0,4.0,3.0,RVLG - River Village,2174.0,33707.0,2015.0,89.0,255.0,159.0,34.428771000000005,-118.50859399999999
+211,MLS Listing,Single Family Residential,28115 Rodgers Dr,Saugus,91350.0,625000.0,3.0,3.0,BOUQ - Bouquet Canyon,2148.0,7313.0,1986.0,94.0,291.0,0.0,34.44752329999999,-118.49394609999999
+212,MLS Listing,Single Family Residential,21620 Kyra Ct,Saugus,91390.0,645800.0,4.0,2.0,COPN - Copper Hill North,2084.0,7779.0,2001.0,94.0,310.0,0.0,34.4658961,-118.512927
+213,MLS Listing,Condo/Co-op,21334 Nandina Ln #204,Newhall,91321.0,324999.0,2.0,2.0,NEW5 - Newhall Area 5,883.0,454004.0,1990.0,94.0,368.0,323.0,34.3772149,-118.50809579999999
+214,MLS Listing,Single Family Residential,14411 Colorado Pl,Canyon Country,91387.0,674999.0,4.0,3.0,CAN2 - Canyon Country 2,1825.0,7540.0,1997.0,95.0,370.0,0.0,34.4407657,-118.38547859999998
+215,MLS Listing,Condo/Co-op,28021 Sarabande Ln #1206,Canyon Country,91387.0,299900.0,2.0,2.0,CAN1 - Canyon Country 1,964.0,44952.0,1986.0,96.0,311.0,317.0,34.422619700000006,-118.4504571
+217,MLS Listing,Single Family Residential,21462 Angela Yvonne Ave,Saugus,91350.0,618000.0,4.0,3.0,BOUQ - Bouquet Canyon,2248.0,7854.0,1988.0,104.0,275.0,35.0,34.4408586,-118.51102
+218,MLS Listing,Single Family Residential,22676 La Rochelle Dr,Saugus,91350.0,579000.0,4.0,3.0,BOUQ - Bouquet Canyon,1726.0,7629.0,1957.0,104.0,335.0,0.0,34.450132,-118.5337504
+219,MLS Listing,Single Family Residential,28646 Crystal Heights Ct,Canyon Country,91387.0,670000.0,5.0,3.0,CAN2 - Canyon Country 2,3660.0,8349.0,2005.0,104.0,183.0,169.0,34.4312156,-118.43801
+220,MLS Listing,Single Family Residential,28147 Alaminos Dr,Saugus,91350.0,545000.0,3.0,2.0,BOUQ - Bouquet Canyon,1584.0,6217.0,1968.0,105.0,344.0,0.0,34.45354879999999,-118.49906259999999
+222,MLS Listing,Single Family Residential,28652 Deer Springs Dr,Saugus,91390.0,675000.0,5.0,2.5,COPN - Copper Hill North,3284.0,6511.0,2003.0,105.0,206.0,0.0,34.4648979,-118.50594299999999
+223,MLS Listing,Single Family Residential,27268 Barclay Way,Saugus,91350.0,605000.0,4.0,3.0,FEKS - Five Knolls,2446.0,23697.0,2016.0,107.0,247.0,215.0,34.431371999999996,-118.497872
+224,MLS Listing,Townhouse,22139 Barrington Way,Saugus,91350.0,619000.0,5.0,4.0,RVLG - River Village,2320.0,23529.0,2016.0,108.0,267.0,314.0,34.428246,-118.511072
+226,MLS Listing,Single Family Residential,26878 Albion Way,Canyon Country,91351.0,560000.0,3.0,2.5,RBGL - Rainbow Glen,1817.0,86468.0,2015.0,109.0,308.0,225.0,34.41618415,-118.48184499999999
+227,MLS Listing,Single Family Residential,29010 Shadow Valley Ln,Saugus,91390.0,582500.0,3.0,3.0,Bouquet Canyon,1915.0,6149.0,1990.0,110.0,304.0,0.0,34.4663982,-118.4879245
+235,MLS Listing,Condo/Co-op,18120 Sundowner Way #1119,Canyon Country,91387.0,299900.0,2.0,2.0,CAN2 - Canyon Country 2,843.0,140070.0,1985.0,117.0,356.0,317.0,34.420164,-118.453028
+238,MLS Listing,Single Family Residential,27151 Brown Oaks Way,Canyon Country,91387.0,614950.0,3.0,3.0,CAN3 - Canyon Country 3,2071.0,23159.0,2006.0,121.0,297.0,80.0,34.407831,-118.43913
+241,MLS Listing,Single Family Residential,28257 Winterdale Dr,Canyon Country,91387.0,495000.0,3.0,2.0,CAN1 - Canyon Country 1,1272.0,10488.0,1978.0,125.0,389.0,0.0,34.424746500000005,-118.43303590000002
+242,MLS Listing,Single Family Residential,26023 Lindale Pl,Newhall,91350.0,520000.0,3.0,2.5,NEW4 - Newhall 4,1504.0,76055.0,2007.0,129.0,346.0,200.0,34.3978445,-118.49080330000001
+243,MLS Listing,Single Family Residential,15919 Ada St,Canyon Country,91387.0,524999.0,3.0,3.0,CAN1 - Canyon Country 1,1895.0,154512.0,1982.0,131.0,277.0,325.0,34.429701200000004,-118.41360290000001
+245,MLS Listing,Single Family Residential,15626 Lucille Ct,Canyon Country,91387.0,539486.0,4.0,3.0,CAN2 - Canyon Country 2,1911.0,267255.0,1988.0,135.0,282.0,197.0,34.433701299999996,-118.408723
+246,MLS Listing,Single Family Residential,20333 Julia Ln,Saugus,91350.0,625000.0,4.0,2.5,PLUM - Plum Canyon,2701.0,5595.0,2011.0,137.0,231.0,98.0,34.4400391,-118.49142859999998
+250,MLS Listing,Single Family Residential,27464 Redwood Ct,Saugus,91350.0,585000.0,4.0,3.0,FEKS - Five Knolls,2241.0,38143.0,2017.0,147.0,261.0,215.0,34.434771000000005,-118.497432
+251,MLS Listing,Single Family Residential,28313 Tamarack Ln,Saugus,91390.0,665000.0,4.0,3.0,COPN - Copper Hill North,2214.0,6678.0,1987.0,150.0,300.0,0.0,34.4637075,-118.53096029999999
+255,MLS Listing,Single Family Residential,22808 Boxwood Ln,Saugus,91390.0,625000.0,4.0,3.25,COPN - Copper Hill North,2090.0,4004.0,1988.0,166.0,299.0,0.0,34.4739026,-118.5334231
+256,MLS Listing,Single Family Residential,28206 Tangerine Ln,Saugus,91350.0,440000.0,3.0,3.0,PLUM - Plum Canyon,1577.0,189635.0,2006.0,166.0,279.0,280.0,34.443833000000005,-118.487953
+283,MLS Listing,Condo/Co-op,18806 Mandan St #216,Canyon Country,91351.0,248900.0,1.0,1.0,CAN1 - Canyon Country 1,635.0,188382.0,1984.0,259.0,392.0,245.0,34.4133138,-118.4633947
+293,MLS Listing,Single Family Residential,19914 Christopher Ln,Saugus,91350.0,635000.0,4.0,3.0,PLUM - Plum Canyon,2781.0,5351.0,2006.0,332.0,228.0,100.0,34.442868,-118.48482240000001
+319,New Construction Home,Single Family Residential,18249 Cumulus Ct,Santa Clarita,91390.0,689990.0,5.0,3.5,Lyra,2861.0,819030.4232954546,2019.0,26.0,241.0,0.0,34.442923,-118.46524199999999
+320,New Construction Home,Single Family Residential,18332 Cachet Way,Santa Clarita,91390.0,699900.0,4.0,3.5,Mystral at Skyline,2798.0,819030.4232954546,2019.0,27.0,250.0,0.0,34.441401,-118.457889
+321,New Construction Home,Single Family Residential,28867 Scape Ln,Santa Clarita,91390.0,676248.0,4.0,3.5,Celestia at Skyline,2001.0,819030.4232954546,2019.0,29.0,338.0,0.0,34.443093,-118.455627
+322,New Construction Home,Single Family Residential,20559 Martingale Pl,Santa Clarita,91350.0,559990.0,1.0,2.0,Five Knolls - Galloway,1859.0,819030.4232954546,2019.0,44.0,301.0,0.0,34.4287,-118.499
+323,New Construction Home,Single Family Residential,20553 Martingale Pl,Santa Clarita,91350.0,562490.0,1.0,2.0,Five Knolls - Galloway,1840.0,819030.4232954546,2019.0,44.0,306.0,0.0,34.4287,-118.499
+324,New Construction Home,Single Family Residential,20551 Martingale Pl,Santa Clarita,91350.0,594490.0,3.0,3.0,Five Knolls - Galloway,2056.0,819030.4232954546,2019.0,44.0,289.0,0.0,34.4287,-118.499
+325,New Construction Home,Single Family Residential,20561 Martingale Pl,Santa Clarita,91350.0,592990.0,3.0,3.0,Five Knolls - Galloway,2056.0,819030.4232954546,2019.0,44.0,288.0,0.0,34.4287,-118.499
+326,New Construction Home,Single Family Residential,20555 Martingale Pl,Santa Clarita,91350.0,637490.0,3.0,3.0,Five Knolls - Galloway,2458.0,819030.4232954546,2019.0,44.0,259.0,0.0,34.4287,-118.499
+327,New Construction Home,Single Family Residential,25110 Citron Ln,Santa Clarita,91387.0,590000.0,2.0,2.0,Verano at Aliento Active Adult,1670.0,819030.4232954546,2019.0,45.0,353.0,0.0,34.390396,-118.452556
+328,New Construction Home,Single Family Residential,27107 Yearling Ln,Santa Clarita,91350.0,580900.0,1.0,2.0,Five Knolls - Galloway,1840.0,819030.4232954546,2019.0,122.0,316.0,0.0,34.4287,-118.499
+329,New Construction Home,Single Family Residential,27109 Yearling Ln,Santa Clarita,91350.0,578050.0,1.0,2.0,Five Knolls - Galloway,1859.0,819030.4232954546,2019.0,122.0,311.0,0.0,34.4287,-118.499
+330,New Construction Home,Single Family Residential,27117 Yearling Ln,Santa Clarita,91350.0,553990.0,1.0,2.0,Five Knolls - Galloway,1870.0,819030.4232954546,2019.0,122.0,296.0,0.0,34.4287,-118.499
+331,New Construction Home,Single Family Residential,20558 Martingale Pl,Santa Clarita,91350.0,577831.0,1.0,2.0,Five Knolls - Galloway,1840.0,819030.4232954546,2019.0,122.0,314.0,0.0,34.4287,-118.499
+332,New Construction Home,Single Family Residential,20550 Martingale Pl,Santa Clarita,91350.0,580929.0,1.0,2.0,Five Knolls - Galloway,1859.0,819030.4232954546,2019.0,122.0,312.0,0.0,34.4287,-118.499
+333,New Construction Home,Single Family Residential,20556 Martingale Pl,Santa Clarita,91350.0,554405.0,1.0,2.0,Five Knolls - Galloway,1840.0,819030.4232954546,2019.0,122.0,301.0,0.0,34.4287,-118.499
+334,New Construction Home,Single Family Residential,20548 Martingale Pl,Santa Clarita,91350.0,587476.0,1.0,2.0,Five Knolls - Galloway,1840.0,819030.4232954546,2019.0,122.0,319.0,0.0,34.4287,-118.499
+350,MLS Listing,Condo/Co-op,22814 Banyan Pl #12,Saugus,91390.0,400000.0,2.0,2.5,COPN - Copper Hill North,1059.0,224705.0,1988.0,1.0,378.0,205.0,34.4628182,-118.53422749999999
+352,MLS Listing,Single Family Residential,29070 Madrid Pl,Castaic,91384.0,623200.0,5.0,3.0,HILC - Hillcrest Area,3472.0,6571.0,2001.0,2.0,179.0,0.0,34.4695856,-118.64415120000001
+353,MLS Listing,Condo/Co-op,24159 Del Monte Dr #391,Valencia,91355.0,349999.0,2.0,2.0,VAL1 - Valencia 1,925.0,842295.0,1989.0,2.0,378.0,275.0,34.410723,-118.5605659
+354,MLS Listing,Single Family Residential,25875 Alegro Dr,Valencia,91355.0,549999.0,4.0,2.0,VAL1 - Valencia 1,1324.0,4817.0,1978.0,3.0,415.0,85.0,34.3961446,-118.55784340000001
+355,MLS Listing,Single Family Residential,27115 Rio Prado Dr,Valencia,91354.0,568000.0,4.0,3.0,Valencia North,2014.0,3545.0,1975.0,3.0,282.0,88.0,34.440671,-118.53525400000001
+356,MLS Listing,Single Family Residential,27621 Primrose Ln,Castaic,91384.0,529700.0,4.0,3.0,HILC - Hillcrest Area,1705.0,33137.0,1997.0,3.0,311.0,96.0,34.471465,-118.618503
+357,MLS Listing,Single Family Residential,23534 Silverhawk Pl,Valencia,91354.0,630000.0,3.0,3.0,NPRK - Valencia Northpark,1927.0,4522.0,1996.0,3.0,327.0,41.0,34.45002879999999,-118.54794
+358,MLS Listing,Condo/Co-op,27058 Victoria Ln #119,Valencia,91355.0,399000.0,2.0,2.0,VALB - Valencia Bridgeport,1046.0,66271.0,2002.0,3.0,381.0,346.0,34.4293896,-118.5601101
+359,MLS Listing,Condo/Co-op,23971 Arroyo Park Dr #80,Valencia,91355.0,347500.0,1.0,1.0,VAL1 - Valencia 1,760.0,571035.0,1985.0,3.0,457.0,335.0,34.405955299999995,-118.5557618
+360,MLS Listing,Single Family Residential,27540 Sunny Creek Dr,Valencia,91354.0,679000.0,3.0,3.0,CRSD - Valencia Creekside,2366.0,4578.0,2004.0,3.0,287.0,178.0,34.441260299999996,-118.5564754
+361,MLS Listing,Townhouse,26524 Big Horn Way,Valencia,91354.0,509000.0,3.0,3.0,NBRG - Valencia Northbridge,1219.0,158133.0,1999.0,3.0,418.0,295.0,34.431126899999995,-118.537322
+362,MLS Listing,Single Family Residential,24912 Avenida Balita,Valencia,91355.0,575000.0,4.0,2.0,VAL1 - Valencia 1,1817.0,6859.0,1969.0,3.0,316.0,0.0,34.382112,-118.54097900000001
+363,MLS Listing,Condo/Co-op,27013 Channel Ln #12,Valencia,91355.0,415000.0,2.0,2.0,VALB - Valencia Bridgeport,1046.0,46230.0,2002.0,4.0,397.0,346.0,34.429212,-118.5630585
+364,MLS Listing,Townhouse,28142 Ashbrook Ln,Valencia,91354.0,442000.0,2.0,1.0,NPRK - Valencia Northpark,1332.0,59238.0,2001.0,4.0,332.0,285.0,34.461051,-118.54598999999999
+365,MLS Listing,Single Family Residential,25505 Chisom Ln,Stevenson Ranch,91381.0,659997.0,4.0,3.0,STEV - Stevenson Ranch,1810.0,6133.0,1996.0,4.0,365.0,25.0,34.3853033,-118.58064159999999
+366,MLS Listing,Condo/Co-op,25023 Peachland Ave #256,Newhall,91321.0,239500.0,1.0,1.0,NEW1 - Newhall 1,635.0,512146.0,1979.0,4.0,377.0,325.0,34.377174,-118.5486126
+367,MLS Listing,Townhouse,24120 Meadowbrook Ln,Valencia,91354.0,445000.0,2.0,2.0,CRSD - Valencia Creekside,1120.0,46689.0,2005.0,4.0,397.0,295.0,34.435321,-118.55826699999999
+368,MLS Listing,Single Family Residential,25626 Ramada Dr,Valencia,91355.0,475000.0,2.0,2.0,VAL1 - Valencia 1,864.0,3777.0,1980.0,4.0,550.0,52.0,34.402443,-118.543451
+369,MLS Listing,Single Family Residential,23030 Tupelo Ridge Drive Dr,Valencia,91354.0,635000.0,4.0,2.5,VALN - Valencia North,1733.0,9119.0,1983.0,5.0,366.0,0.0,34.4567164,-118.5394658
+370,MLS Listing,Condo/Co-op,27470 Riverside Ln,Valencia,91354.0,629000.0,4.0,2.75,Valencia Creekside,1912.0,102154.0,2005.0,5.0,329.0,321.0,34.439660499999995,-118.55768379999999
+371,MLS Listing,Townhouse,22930 Banyan Pl #326,Saugus,91390.0,425000.0,2.0,3.0,COPN - Copper Hill North,1059.0,62618.0,1988.0,5.0,401.0,205.0,34.4630763,-118.5364074
+372,MLS Listing,Single Family Residential,30751 San Martinez Rd,Castaic,91384.0,450000.0,5.0,2.0,VVER - Val Verde,2967.0,45688.0,1939.0,5.0,152.0,0.0,34.4487645,-118.67267939999999
+373,MLS Listing,Single Family Residential,25695 Yucca Valley Rd,Valencia,91355.0,649000.0,4.0,2.0,VAL1 - Valencia 1,1938.0,7191.0,1976.0,5.0,335.0,0.0,34.3902742,-118.556977
+374,MLS Listing,Condo/Co-op,24115 Del Monte Dr #66,Valencia,91355.0,349999.0,1.0,1.0,VAL1 - Valencia 1,835.0,842295.0,1989.0,5.0,419.0,275.0,34.410723,-118.5605659
+375,MLS Listing,Single Family Residential,25926 Mendoza Dr,Valencia,91355.0,660000.0,4.0,3.0,VAL1 - Valencia 1,1718.0,5175.0,1984.0,5.0,384.0,58.0,34.4090717,-118.54658
+376,MLS Listing,Townhouse,26528 Big Horn Way,Valencia,91354.0,419900.0,2.0,2.0,NBRG - Valencia Northbridge,1025.0,158133.0,1999.0,5.0,410.0,295.0,34.431126899999995,-118.537322
+377,MLS Listing,Single Family Residential,26103 Galvez Ct,Valencia,91355.0,489900.0,2.0,2.0,VAL1 - Valencia 1,896.0,4720.0,1986.0,5.0,547.0,57.0,34.4131954,-118.54789029999999
+378,MLS Listing,Condo/Co-op,25748 Perlman Pl Unit B,Stevenson Ranch,91381.0,474000.0,3.0,2.0,Stevenson Ranch,1521.0,8338.0,1999.0,6.0,312.0,370.0,34.389365999999995,-118.581069
+379,MLS Listing,Townhouse,23477 Abbey Glen Pl,Valencia,91354.0,475000.0,3.0,2.5,NPRK - Valencia Northpark,1635.0,65360.0,2000.0,7.0,291.0,285.0,34.461689,-118.546948
+380,MLS Listing,Single Family Residential,25367 Playa Serena Dr #170,Valencia,91381.0,679000.0,3.0,2.5,VWES - Valencia Westridge,1901.0,92409.0,2004.0,7.0,357.0,189.0,34.415914,-118.582048
+381,MLS Listing,Single Family Residential,23222 Via Barra,Valencia,91355.0,580000.0,3.0,2.0,VAL1 - Valencia 1,1426.0,5226.0,1972.0,9.0,407.0,0.0,34.394650299999995,-118.54272179999998
+382,MLS Listing,Single Family Residential,27827 Sunflower Ct,Valencia,91354.0,660000.0,4.0,2.5,NPRK - Valencia Northpark,1800.0,6432.0,1997.0,9.0,367.0,41.0,34.4501329,-118.5500457
+383,MLS Listing,Townhouse,24076 Avocado Ln,Valencia,91354.0,445000.0,2.0,2.0,CRSD - Valencia Creekside,1120.0,41477.0,2004.0,9.0,397.0,295.0,34.434886999999996,-118.55886799999999
+384,MLS Listing,Single Family Residential,25246 Via Sistine,Valencia,91355.0,699000.0,3.0,2.0,VAL1 - Valencia 1,1435.0,4630.0,1968.0,10.0,487.0,55.0,34.3806838,-118.55068419999999
+385,MLS Listing,Single Family Residential,25835 El Gato Pl,Valencia,91355.0,425000.0,2.0,1.75,VALValencia 1,864.0,4266.0,1984.0,10.0,492.0,58.0,34.409191,-118.54427
+386,MLS Listing,Townhouse,25644 Via Ventana,Valencia,91381.0,679000.0,3.0,3.0,VWES - Valencia Westridge,1960.0,15608.0,2003.0,10.0,346.0,260.0,34.4045341,-118.5836389
+387,MLS Listing,Condo/Co-op,25725 Hogan Dr Unit D7,Valencia,91355.0,409000.0,4.0,2.0,VAL1 - Valencia 1,1296.0,676061.0,1971.0,10.0,316.0,452.0,34.3892963,-118.56208249999999
+388,MLS Listing,Single Family Residential,27835 Palmetto Ridge Dr,Valencia,91354.0,639000.0,4.0,2.25,VALN - Valencia North,1901.0,7143.0,1980.0,10.0,336.0,0.0,34.45566470000001,-118.54078829999999
+389,MLS Listing,Single Family Residential,27202 Waterford Dr,Valencia,91354.0,559000.0,2.0,2.0,NBRG - Valencia Northbridge,982.0,6652.0,1989.0,11.0,569.0,48.0,34.4356268,-118.5465344
+390,MLS Listing,Single Family Residential,24019 Cape May Ct,Valencia,91355.0,625000.0,4.0,3.0,VAL1 - Valencia 1,1718.0,3567.0,1984.0,11.0,364.0,84.0,34.410205,-118.5567034
+391,MLS Listing,Single Family Residential,23741 Alta Madera Dr,Valencia,91355.0,539900.0,3.0,2.0,VAL1 - Valencia 1,1111.0,6480.0,1979.0,12.0,486.0,53.0,34.3989381,-118.54949850000001
+392,MLS Listing,Condo/Co-op,26832 Marina Point Ln #54,Valencia,91355.0,575000.0,3.0,2.5,VALB - Valencia Bridgeport,1993.0,15463.0,2001.0,12.0,289.0,408.0,34.4272658,-118.5454098
+393,MLS Listing,Single Family Residential,28802 Silversmith Dr,Valencia,91354.0,619900.0,4.0,3.0,VLWH - Valencia West Hills,2141.0,3898.0,2007.0,12.0,290.0,128.0,34.460119299999995,-118.5666439
+394,MLS Listing,Single Family Residential,24225 Cross St,Newhall,91321.0,699000.0,3.0,2.25,NEW1 - Newhall 1,1923.0,7824.0,1960.0,12.0,363.0,0.0,34.3685357,-118.5352075
+395,MLS Listing,Single Family Residential,22820 Decoro Dr,Valencia,91354.0,530000.0,3.0,2.0,VALN - Valencia North,1307.0,3911.0,1975.0,12.0,406.0,82.0,34.442284,-118.53513400000001
+396,MLS Listing,Single Family Residential,27906 Agapanthus Ln,Valencia,91354.0,699900.0,4.0,3.0,VALC - Valencia Copperhill,1994.0,4063.0,2001.0,13.0,351.0,68.0,34.44572539999999,-118.56427279999998
+397,MLS Listing,Condo/Co-op,25735 Perlman Pl Unit C,Stevenson Ranch,91381.0,449000.0,3.0,3.0,Stevenson Ranch,1232.0,11175.0,1999.0,13.0,364.0,372.0,34.3892546,-118.5820094
+398,MLS Listing,Single Family Residential,28288 N Via Sonata Dr,Valencia,91354.0,545000.0,3.0,2.5,VLWC - Valencia West Creek,1848.0,364437.0,2011.0,13.0,295.0,128.0,34.451228,-118.563955
+399,MLS Listing,Condo/Co-op,24837 Apple St Unit F,Newhall,91321.0,369000.0,2.0,2.0,NEW1 - Newhall 1,1159.0,181854.0,1981.0,13.0,318.0,315.0,34.378009000000006,-118.543575
+400,MLS Listing,Single Family Residential,32043 Cypress Way,Castaic,91384.0,574900.0,3.0,3.0,NLAK - Northlake,2008.0,4878.0,2000.0,14.0,286.0,155.0,34.502606400000005,-118.6191216
+401,MLS Listing,Single Family Residential,25248 Carson Way,Stevenson Ranch,91381.0,679000.0,3.0,2.75,STEV - Stevenson Ranch,2278.0,4251.0,1990.0,17.0,298.0,25.0,34.3871156,-118.5784787
+402,MLS Listing,Townhouse,23401 Abbey Glen Pl,Valencia,91354.0,448000.0,2.0,2.5,NPRK - Valencia Northpark,1484.0,63936.0,2001.0,17.0,302.0,285.0,34.461537,-118.545805
+403,MLS Listing,Single Family Residential,24150 Cross St,Santa Clarita,91321.0,650000.0,3.0,2.0,Santa Clarita,1531.0,11761.0,1958.0,17.0,425.0,0.0,34.367265100000004,-118.53407299999999
+404,MLS Listing,Condo/Co-op,28508 Herrera St,Valencia,91354.0,420000.0,2.0,2.0,Valencia West Creek,1460.0,93988.0,2008.0,19.0,288.0,240.0,34.4561218,-118.5656817
+405,MLS Listing,Single Family Residential,24738 Montevista Cir,Valencia,91354.0,540000.0,3.0,2.5,VALC - Valencia Copperhill,1517.0,81262.0,2002.0,19.0,356.0,102.0,34.448147999999996,-118.56620900000001
+406,MLS Listing,Single Family Residential,22805 Garzota Dr,Valencia,91354.0,550000.0,3.0,2.0,VALN - Valencia North,2032.0,3312.0,1975.0,19.0,271.0,297.0,34.437176,-118.53451299999999
+407,MLS Listing,Single Family Residential,27934 Lassen St,Castaic,91384.0,587000.0,3.0,3.0,HILC - Hillcrest Area,1689.0,8019.0,1992.0,20.0,348.0,0.0,34.471312,-118.6239493
+408,MLS Listing,Single Family Residential,27452 Seco Canyon Rd,Saugus,91350.0,494900.0,3.0,1.5,BOUQ - Bouquet Canyon,1230.0,8425.0,1957.0,20.0,402.0,0.0,34.4507302,-118.5346773
+409,MLS Listing,Single Family Residential,25816 Mendoza Dr,Valencia,91355.0,579000.0,2.0,2.0,VAL1 - Valencia 1,1259.0,5107.0,1983.0,20.0,460.0,58.0,34.407122799999996,-118.5462608
+410,MLS Listing,Single Family Residential,24739 Montevista Cir,Valencia,91354.0,515000.0,3.0,2.5,VALC - Valencia Copperhill,1517.0,81262.0,2002.0,20.0,339.0,102.0,34.448147999999996,-118.56620900000001
+411,MLS Listing,Townhouse,25959 Stafford Canyon Rd Unit B,Stevenson Ranch,91381.0,495000.0,3.0,3.0,STEV - Stevenson Ranch,1667.0,40978.0,1991.0,20.0,297.0,325.0,34.389537,-118.58821499999999
+412,MLS Listing,Single Family Residential,22711 Flower Fields Ave,Saugus,91350.0,659500.0,4.0,2.0,CJRC - Circle J Ranch,2001.0,8083.0,2000.0,20.0,330.0,0.0,34.395891299999995,-118.5368663
+413,MLS Listing,Single Family Residential,23517 Via Boscana,Valencia,91355.0,639000.0,3.0,2.0,VAL1 - Valencia 1,1429.0,5821.0,1967.0,20.0,447.0,45.0,34.383098700000005,-118.5457135
+414,MLS Listing,Single Family Residential,27763 Summer Grove Pl,Valencia,91354.0,579990.0,3.0,3.0,CRSD - Valencia Creekside,1866.0,437945.0,2004.0,20.0,311.0,185.0,34.446557,-118.556486
+415,MLS Listing,Condo/Co-op,31355 The Old Rd Unit F,Castaic,91384.0,339999.0,2.0,2.0,Parker Road,1108.0,299218.0,1984.0,21.0,307.0,320.0,34.48633,-118.620446
+416,MLS Listing,Condo/Co-op,24518 Mcbean Pkwy #41,Valencia,91355.0,374900.0,2.0,2.0,Valencia 1,977.0,273077.0,1988.0,21.0,384.0,335.0,34.394116499999996,-118.56377890000002
+417,MLS Listing,Townhouse,25217 Bishop Ct,Stevenson Ranch,91381.0,468900.0,2.0,3.0,STEV - Stevenson Ranch,1450.0,21829.0,2005.0,21.0,323.0,235.0,34.382853000000004,-118.577952
+418,MLS Listing,Townhouse,27103 Pine Valley Dr #51,Valencia,91381.0,565000.0,3.0,3.0,VWES - Valencia Westridge,1701.0,96003.0,2004.0,21.0,332.0,325.0,34.41202,-118.58264199999999
+419,MLS Listing,Single Family Residential,24341 Verdugo Cir,Valencia,91354.0,539900.0,3.0,3.0,VLWC - Valencia West Creek,1678.0,130201.0,2016.0,21.0,322.0,128.0,34.452659999999995,-118.561438
+420,MLS Listing,Condo/Co-op,25124 Steinbeck Ave Unit F,Stevenson Ranch,91381.0,399985.0,2.0,2.0,STEV - Stevenson Ranch,963.0,87172.0,1990.0,22.0,415.0,295.0,34.388861999999996,-118.576843
+421,MLS Listing,Single Family Residential,24285 Verdugo Cir,Valencia,91354.0,535000.0,3.0,3.0,VLWC - Valencia West Creek,1678.0,254360.0,2016.0,23.0,319.0,128.0,34.451865000000005,-118.56146399999999
+422,MLS Listing,Condo/Co-op,22723 Copper Hill Dr #138,Saugus,91350.0,435000.0,3.0,2.5,COPN - Copper Hill North,1344.0,84532.0,1990.0,23.0,324.0,238.0,34.460948200000004,-118.53353659999999
+423,MLS Listing,Condo/Co-op,23621 Del Monte Dr #338,Valencia,91355.0,428000.0,2.0,2.0,VAL1 - Valencia 1,1067.0,244224.0,1987.0,24.0,401.0,275.0,34.4137343,-118.5492983
+425,MLS Listing,Townhouse,23132 Napa Dr,Valencia,91354.0,429000.0,2.0,2.5,NBRG - Valencia Northbridge,1025.0,9516.0,1998.0,24.0,419.0,295.0,34.429388,-118.539115
+426,MLS Listing,Single Family Residential,25383 Via Palacio,Valencia,91355.0,604999.0,3.0,2.0,VAL1 - Valencia 1,1664.0,5601.0,1971.0,24.0,364.0,0.0,34.3942106,-118.54726399999998
+427,MLS Listing,Condo/Co-op,25933 Stafford Canyon Rd Unit F,Stevenson Ranch,91381.0,399900.0,2.0,2.0,STEV - Stevenson Ranch,1127.0,14367.0,1991.0,25.0,355.0,327.0,34.3889872,-118.58768559999999
+428,MLS Listing,Townhouse,24660 Brighton Dr Unit B,Valencia,91355.0,560000.0,2.0,2.5,VSUM - Valencia Summit,1581.0,716118.0,1990.0,25.0,354.0,475.0,34.400659000000005,-118.562068
+429,MLS Listing,Townhouse,27208 Sycamore Meadow Dr #144,Valencia,91381.0,574500.0,3.0,3.0,VWES - Valencia Westridge,1659.0,78521.0,2004.0,26.0,346.0,335.0,34.4135739,-118.581226
+430,MLS Listing,Condo/Co-op,28546 Herrera St,Valencia,91354.0,419900.0,2.0,2.0,Valencia West Creek,1440.0,70202.0,2008.0,26.0,292.0,240.0,34.456733,-118.56550700000001
+432,MLS Listing,Single Family Residential,27285 Baviera Way,Valencia,91381.0,689900.0,3.0,2.5,VWES - Valencia Westridge,2215.0,170606.0,2004.0,26.0,311.0,181.0,34.415109,-118.58244199999999
+433,MLS Listing,Townhouse,22753 Shadow Cliff Ct,Saugus,91350.0,439900.0,3.0,3.0,CJRC - Circle J Ranch,1373.0,8936.0,2000.0,27.0,320.0,275.0,34.396997999999996,-118.53799199999999
+434,MLS Listing,Townhouse,25606 Via Alisa,Valencia,91381.0,613000.0,3.0,3.0,VWES - Valencia Westridge,1717.0,58584.0,2003.0,28.0,357.0,295.0,34.405031,-118.584705
+435,MLS Listing,Single Family Residential,32040 Cypress Way,Castaic,91384.0,580000.0,4.0,3.0,NLAK - Northlake,2170.0,4444.0,2000.0,28.0,267.0,185.0,34.5028328,-118.6186048
+436,MLS Listing,Single Family Residential,25408 Via Jardin,Valencia,91355.0,599999.0,4.0,2.0,VAL1 - Valencia 1,1596.0,5128.0,1976.0,28.0,376.0,0.0,34.3967455,-118.5443564
+437,MLS Listing,Condo/Co-op,25853 Mcbean #36,Valencia,91355.0,425000.0,2.0,2.0,VAL1 - Valencia 1,1178.0,642865.0,1988.0,29.0,361.0,265.0,34.403046999999994,-118.553271
+438,MLS Listing,Single Family Residential,32291 Big Oak Ln,Castaic,91384.0,559900.0,3.0,3.0,NLAK - Northlake,2203.0,4146.0,2000.0,30.0,254.0,185.0,34.505906700000004,-118.62545349999999
+439,MLS Listing,Condo/Co-op,28206 Canterbury Ct,Valencia,91354.0,445000.0,2.0,2.5,NPRK - Valencia Northpark,1377.0,819030.4232954546,2001.0,31.0,323.0,285.0,34.460239,-118.546925
+440,MLS Listing,Townhouse,25907 Pueblo Dr,Valencia,91355.0,499900.0,3.0,1.75,VAL1 - Valencia 1,1128.0,4476.0,1985.0,31.0,443.0,57.0,34.409734,-118.54547
+442,MLS Listing,Townhouse,25776 Covala Ct,Valencia,91355.0,475000.0,2.0,2.0,VAL1 - Valencia 1,864.0,3535.0,1984.0,32.0,550.0,56.0,34.40772,-118.542588
+443,MLS Listing,Single Family Residential,23618 Via Delfina,Valencia,91355.0,625000.0,4.0,2.25,VAL1 - Valencia 1,1767.0,5468.0,1972.0,32.0,354.0,0.0,34.3927685,-118.5473095
+444,MLS Listing,Single Family Residential,32632 The Old Rd,Castaic,91384.0,658000.0,5.0,3.0,NCAS - North Castaic,3253.0,23430.0,2000.0,32.0,202.0,0.0,34.512005200000004,-118.6374635
+445,MLS Listing,Single Family Residential,28419 Vista Del Rio Dr,Valencia,91354.0,649900.0,4.0,3.0,VLWC - Valencia West Creek,2134.0,4155.0,2013.0,33.0,305.0,128.0,34.454511,-118.56451299999999
+447,MLS Listing,Single Family Residential,22612 Pamplico Dr,Saugus,91350.0,540000.0,4.0,2.0,BOUQ - Bouquet Canyon,1650.0,7488.0,1976.0,33.0,327.0,0.0,34.4509135,-118.5317584
+448,MLS Listing,Condo/Co-op,25875 Mcbean #42,Valencia,91355.0,424900.0,2.0,2.0,VAL1 - Valencia 1,1170.0,642865.0,1988.0,34.0,363.0,264.0,34.403046999999994,-118.553271
+449,MLS Listing,Single Family Residential,27398 Dearborn Dr,Valencia,91354.0,524950.0,3.0,2.5,CRSD - Valencia Creekside,1647.0,2417.0,2004.0,35.0,319.0,175.0,34.437442299999994,-118.55615619999999
+450,MLS Listing,Single Family Residential,30560 Appalachian Dr,Castaic,91384.0,659999.0,5.0,3.0,HILC - Hillcrest Area,2611.0,6219.0,1999.0,35.0,253.0,0.0,34.4742027,-118.63725840000001
+451,MLS Listing,Townhouse,28513 Herrera St,Valencia,91354.0,415000.0,2.0,2.0,VLWC - Valencia West Creek,1460.0,93968.0,2008.0,35.0,284.0,240.0,34.4561218,-118.5656817
+453,MLS Listing,Single Family Residential,27700 Cherry Creek Dr,Valencia,91354.0,554000.0,4.0,2.0,VALN - Valencia North,1624.0,5722.0,1977.0,35.0,341.0,0.0,34.4549164,-118.53527009999999
+454,MLS Listing,Single Family Residential,27810 Sweetwater Ln,Valencia,91354.0,627000.0,4.0,3.0,NPRK - Valencia Northpark,1849.0,6334.0,1998.0,37.0,339.0,41.0,34.450526399999994,-118.5484953
+456,MLS Listing,Single Family Residential,27721 Laurel Creek Cir,Valencia,91354.0,599000.0,4.0,2.0,VALN - Valencia North,1660.0,7166.0,1979.0,37.0,361.0,0.0,34.4547741,-118.5378696
+457,MLS Listing,Single Family Residential,27220 Seco Canyon Rd,Saugus,91350.0,549950.0,5.0,2.0,BOUQ - Bouquet Canyon,1864.0,9369.0,1955.0,38.0,295.0,0.0,34.4447456,-118.53423259999998
+458,MLS Listing,Single Family Residential,24633 Farrow Dr,Valencia,91355.0,699000.0,4.0,3.0,VAL1 - Valencia 1,2266.0,9599.0,1979.0,38.0,308.0,135.0,34.3802035,-118.56482
+459,MLS Listing,Townhouse,24626 Brighton Dr Unit A,Valencia,91355.0,598000.0,3.0,3.0,VSUM - Valencia Summit,2034.0,716118.0,1989.0,38.0,294.0,475.0,34.400659000000005,-118.562068
+460,MLS Listing,Single Family Residential,30228 June Rose Ct,Castaic,91384.0,659900.0,4.0,2.75,HILC - Hillcrest Area,2768.0,310280.0,1999.0,39.0,238.0,0.0,34.467776,-118.63093799999999
+461,MLS Listing,Single Family Residential,23750 Forest View Ct,Valencia,91354.0,649995.0,2.0,2.0,BCRO - Valencia Belcaro,1693.0,3825.0,2004.0,39.0,384.0,388.0,34.4557036,-118.55223459999999
+462,MLS Listing,Single Family Residential,24155 Mentry Dr,Newhall,91321.0,650000.0,4.0,3.0,NEW1 - Newhall 1,2930.0,11189.0,1985.0,40.0,222.0,220.0,34.3612666,-118.5441805
+463,MLS Listing,Condo/Co-op,23971 Arroyo Park Dr #79,Valencia,91355.0,434900.0,2.0,2.0,VAL1 - Valencia 1,1252.0,571035.0,1985.0,40.0,347.0,335.0,34.405955299999995,-118.5557618
+465,MLS Listing,Condo/Co-op,24512 Mcbean #60,Valencia,91355.0,384999.0,2.0,2.0,VAL1 - Valencia 1,1033.0,272845.0,1988.0,40.0,373.0,335.0,34.394116499999996,-118.56377890000002
+466,MLS Listing,Single Family Residential,23932 Hammond Ct,Valencia,91354.0,629900.0,4.0,2.0,Valencia Northbridge,1666.0,5107.0,1996.0,40.0,378.0,45.0,34.4387061,-118.554469
+467,MLS Listing,Townhouse,23118 Yvette Ln,Valencia,91355.0,470000.0,3.0,3.0,VAL1 - Valencia 1,1859.0,282406.0,1978.0,41.0,253.0,437.0,34.390236,-118.54266499999999
+468,MLS Listing,Single Family Residential,25475 Langston St,Valencia,91355.0,629000.0,3.0,2.0,VAL1 - Valencia 1,1540.0,5528.0,1974.0,41.0,408.0,0.0,34.3910357,-118.55036489999999
+469,MLS Listing,Single Family Residential,28852 Cedar Ridge Ct,Saugus,91390.0,699990.0,5.0,3.0,COPN - Copper Hill North,2896.0,6367.0,1999.0,42.0,242.0,145.0,34.4739131,-118.5354982
+470,MLS Listing,Single Family Residential,28646 Lincoln Ave,Castaic,91384.0,465000.0,3.0,3.0,VVER - Val Verde,1862.0,3967.0,1992.0,42.0,250.0,0.0,34.4410687,-118.6555794
+472,MLS Listing,Single Family Residential,23761 Spruce Meadow Ct,Valencia,91354.0,659000.0,2.0,2.0,BCRO - Valencia Belcaro,1830.0,4094.0,2005.0,45.0,360.0,337.0,34.460096,-118.55083400000001
+473,MLS Listing,Townhouse,23917 Brescia Dr,Valencia,91354.0,514900.0,4.0,3.0,VLWC - Valencia West Creek,1960.0,730529.0,2008.0,46.0,263.0,271.0,34.4616378,-118.5566102
+474,MLS Listing,Condo/Co-op,25735 Hogan Dr Unit E12,Valencia,91355.0,335000.0,2.0,1.75,VAL1 - Valencia 1,1041.0,676061.0,1971.0,47.0,322.0,405.0,34.3892963,-118.56208249999999
+475,MLS Listing,Townhouse,28133 Ashbrook Ln,Valencia,91354.0,425000.0,2.0,2.5,NPRK - Valencia Northpark,1484.0,45658.0,2001.0,48.0,286.0,285.0,34.460797899999996,-118.54645900000001
+476,MLS Listing,Single Family Residential,29956 GRANGER Pl,Castaic,91384.0,699999.0,4.0,3.0,HSHL - Hasley Hills,2892.0,4972.0,2000.0,48.0,242.0,87.0,34.4616648,-118.62139669999999
+477,MLS Listing,Single Family Residential,25688 Neblina Ct,Valencia,91355.0,460000.0,2.0,2.0,VAL1 - Valencia 1,864.0,3293.0,1981.0,52.0,532.0,53.0,34.403090999999996,-118.546127
+479,MLS Listing,Townhouse,24115 Evans Ave #2,Newhall,91321.0,390000.0,3.0,2.0,NEW1 - Newhall 1,1098.0,51364.0,1988.0,53.0,355.0,380.0,34.376793799999994,-118.5567767
+480,MLS Listing,Single Family Residential,29008 Via Patina,Valencia,91354.0,679000.0,4.0,3.0,VLWH - Valencia West Hills,2351.0,5242.0,2017.0,54.0,289.0,129.0,34.4650126,-118.56992679999999
+481,MLS Listing,Single Family Residential,24658 Montevista Cir,Valencia,91354.0,545000.0,3.0,3.0,VALC - Valencia Copperhill,1558.0,72967.0,2001.0,55.0,350.0,102.0,34.447795899999996,-118.56688799999999
+482,MLS Listing,Single Family Residential,24200 Cheryl Kelton Pl,Newhall,91321.0,629000.0,4.0,1.75,NEW1 - Newhall 1,1698.0,9637.0,1976.0,55.0,370.0,0.0,34.3733859,-118.55811729999999
+484,MLS Listing,Single Family Residential,27724 Bridlewood Dr,Castaic,91384.0,618000.0,4.0,3.0,CJCT - Castaic Junction,2230.0,6661.0,1989.0,59.0,277.0,0.0,34.4623559,-118.619619
+485,MLS Listing,Condo/Co-op,31732 Ridge Route Rd #205,Castaic,91384.0,199000.0,1.0,1.0,NCAS - North Castaic,708.0,39707.0,1980.0,60.0,281.0,290.0,34.495525,-118.61595430000001
+486,MLS Listing,Single Family Residential,28547 Heather Ln,Castaic,91384.0,588800.0,4.0,3.0,PRKR - Parker Road,2115.0,5696.0,1989.0,60.0,278.0,0.0,34.4859357,-118.63598219999999
+487,MLS Listing,Single Family Residential,25532 Via Pacifica,Valencia,91355.0,675000.0,4.0,2.0,VAL1 - Valencia 1,1857.0,5998.0,1979.0,61.0,363.0,52.0,34.3980255,-118.54744640000001
+488,MLS Listing,Single Family Residential,27058 Rio Pecos Dr,Valencia,91354.0,569000.0,4.0,2.0,VALN - Valencia North,2014.0,3614.0,1975.0,62.0,283.0,83.0,34.439275,-118.53518400000002
+491,MLS Listing,Condo/Co-op,24585 Town Center Dr #4208,Valencia,91355.0,495900.0,3.0,2.0,VAL1 - Valencia 1,1420.0,81656.0,2003.0,66.0,349.0,350.0,34.4198665,-118.5644636
+492,MLS Listing,Townhouse,24614 Brighton Dr Unit A,Valencia,91355.0,635000.0,3.0,2.5,VSUM - Valencia Summit,1850.0,716118.0,1989.0,66.0,343.0,475.0,34.400659000000005,-118.562068
+493,MLS Listing,Condo/Co-op,24595 Town Center Dr #3105,Valencia,91355.0,435000.0,2.0,2.0,VAL1 - Valencia 1,1090.0,81656.0,2003.0,66.0,399.0,350.0,34.4198665,-118.5644636
+495,MLS Listing,Single Family Residential,28526 Vista Del Rio Dr,Valencia,91354.0,669000.0,4.0,3.5,VLWC - Valencia West Creek,2887.0,4285.0,2013.0,69.0,232.0,128.0,34.4558524,-118.56418159999998
+496,MLS Listing,Single Family Residential,24925 Wheeler Rd,Newhall,91321.0,699999.0,3.0,4.0,NEW1 - Newhall 1,2556.0,7504.0,1990.0,72.0,274.0,122.0,34.371574100000004,-118.55018249999999
+497,MLS Listing,Single Family Residential,28720 Ponderosa St,Castaic,91384.0,629900.0,4.0,3.0,HILC - Hillcrest Area,3170.0,6233.0,1999.0,73.0,199.0,0.0,34.4728418,-118.63589109999998
+498,MLS Listing,Single Family Residential,27110 Manor Cir,Valencia,91354.0,550000.0,3.0,2.5,NBRG - Valencia Northbridge,1714.0,130007.0,1997.0,74.0,321.0,112.0,34.431168,-118.54979479999999
+501,MLS Listing,Single Family Residential,27960 Periwinkle Ln,Valencia,91354.0,685500.0,3.0,2.5,VALC - Valencia Copperhill,2140.0,3704.0,2000.0,80.0,320.0,68.0,34.446274700000004,-118.56292320000001
+504,MLS Listing,Single Family Residential,25488 Via Dalia,Valencia,91355.0,638000.0,4.0,3.0,VAL1 - Valencia 1,2192.0,5682.0,1968.0,82.0,291.0,55.0,34.3848473,-118.55059299999999
+507,MLS Listing,Condo/Co-op,24585 Town Center Dr #4104,Valencia,91355.0,419900.0,2.0,2.0,VAL1 - Valencia 1,1110.0,81656.0,2003.0,84.0,378.0,360.0,34.4198665,-118.5644636
+508,MLS Listing,Townhouse,24402 Hampton Dr Unit B,Valencia,91355.0,584999.0,3.0,2.0,VSUM - Valencia Summit,1920.0,463239.0,1989.0,86.0,305.0,470.0,34.403967,-118.56343400000002
+511,MLS Listing,Single Family Residential,25113 De Wolfe Rd,Newhall,91321.0,639900.0,3.0,2.0,NEW1 - Newhall 1,1809.0,7578.0,1960.0,87.0,354.0,0.0,34.3747499,-118.5552442
+512,MLS Listing,Single Family Residential,25731 Hammet Cir,Stevenson Ranch,91381.0,679900.0,3.0,3.0,STEV - Stevenson Ranch,1979.0,3753.0,1998.0,88.0,344.0,8.0,34.3925781,-118.5841636
+514,MLS Listing,Single Family Residential,29539 Cromwell Ave,Castaic,91384.0,475000.0,3.0,2.0,CJCT - Castaic Junction,1424.0,4885.0,1983.0,90.0,334.0,0.0,34.4468741,-118.6504297
+515,MLS Listing,Single Family Residential,23522 Via Galera,Valencia,91355.0,699000.0,4.0,2.5,VAL1 - Valencia 1,2319.0,4441.0,1968.0,92.0,301.0,41.0,34.3859419,-118.546865
+517,MLS Listing,Single Family Residential,22920 Cerca Dr,Valencia,91354.0,585000.0,4.0,3.0,VALN - Valencia North,2162.0,7416.0,1969.0,96.0,271.0,0.0,34.432613399999994,-118.5375533
+518,MLS Listing,Single Family Residential,25825 Wordsworth Ln,Stevenson Ranch,91381.0,659000.0,3.0,3.0,Stevenson Ranch,1803.0,5212.0,1998.0,97.0,366.0,0.0,34.3920036,-118.58638619999999
+522,MLS Listing,Single Family Residential,26910 Carmelita Dr,Valencia,91355.0,645000.0,3.0,2.25,VALW - Valencia Woodlands,1945.0,563416.0,2001.0,98.0,332.0,348.0,34.412029,-118.566268
+524,MLS Listing,Condo/Co-op,27056 Victoria Ln #115,Valencia,91355.0,410000.0,2.0,2.0,VALB - Valencia Bridgeport,1046.0,66271.0,2002.0,103.0,392.0,346.0,34.4291416,-118.56023429999999
+525,MLS Listing,Single Family Residential,22676 La Rochelle Dr,Saugus,91350.0,579000.0,4.0,3.0,BOUQ - Bouquet Canyon,1726.0,7629.0,1957.0,104.0,335.0,0.0,34.450132,-118.5337504
+526,MLS Listing,Single Family Residential,29147 Val Verde Rd,Val Verde Park,91384.0,429000.0,3.0,2.75,VVER - Val Verde,1224.0,19320.0,1930.0,104.0,350.0,0.0,34.450122,-118.66290900000001
+527,MLS Listing,Single Family Residential,26903 Santa Ynez Way,Valencia,91355.0,675000.0,4.0,3.0,VALW - Valencia Woodlands,2356.0,563416.0,2001.0,107.0,287.0,348.0,34.411708399999995,-118.5659953
+529,MLS Listing,Townhouse,27442 Acacia Dr,Valencia,91354.0,525000.0,3.0,3.0,CRSD - Valencia Creekside,1761.0,105917.0,2004.0,110.0,298.0,304.0,34.438594,-118.55765900000002
+531,MLS Listing,Single Family Residential,27852 Pine Crest Pl,Castaic,91384.0,655999.0,4.0,3.0,NLAK - Northlake,2860.0,5169.0,2000.0,111.0,229.0,175.0,34.506669,-118.6241772
+532,MLS Listing,Single Family Residential,29886 Muledeer Ln,Castaic,91384.0,619900.0,4.0,3.0,HSHL - Hasley Hills,2230.0,20965.0,1989.0,115.0,278.0,0.0,34.4600483,-118.61884409999999
+539,MLS Listing,Condo/Co-op,24127 Del Monte Dr #112,Valencia,91355.0,375000.0,2.0,2.0,Valencia 1,925.0,842389.0,1989.0,135.0,405.0,275.0,34.410723,-118.5605659
+547,MLS Listing,Single Family Residential,27710 Mariposa Ln,Castaic,91384.0,674900.0,6.0,4.0,Northlake,3355.0,5152.0,2000.0,171.0,201.0,175.0,34.505188700000005,-118.6224223
+552,MLS Listing,Condo/Co-op,27303 Cedar Pl,Valencia,91354.0,435000.0,2.0,2.0,CRSD - Valencia Creekside,1120.0,26505.0,2004.0,193.0,388.0,289.0,34.435787,-118.55968500000002
+553,MLS Listing,Single Family Residential,29040 N West Hills Dr,Valencia,91354.0,669999.0,4.0,3.0,VLWH - Valencia West Hills,2351.0,8417.0,2016.0,194.0,285.0,129.0,34.4652586,-118.56723670000001
+559,MLS Listing,Single Family Residential,30610 Beryl Pl,Castaic,91384.0,635000.0,4.0,2.5,HILC - Hillcrest Area,3170.0,6397.0,2000.0,223.0,200.0,0.0,34.4743626,-118.6350707
+567,MLS Listing,Single Family Residential,24700 Fourl Rd,Newhall,91321.0,625000.0,5.0,3.0,NEW1 - Newhall 1,2269.0,9371.0,1965.0,249.0,275.0,0.0,34.3660689,-118.55414979999999
+571,MLS Listing,Single Family Residential,29901 Crawford Pl,Castaic,91384.0,679000.0,5.0,3.0,HSHL - Hasley Hills,2772.0,8986.0,2002.0,304.0,245.0,87.0,34.4594425,-118.6248153
+597,New Construction Home,Townhouse,28631 Jardineras Dr,Santa Clarita,91354.0,516871.0,3.0,2.5,Paloma at West Creek,1749.0,819030.4232954546,2019.0,34.0,296.0,0.0,34.459162,-118.564578
+598,New Construction Home,Townhouse,28649 Jardineras Dr,Santa Clarita,91354.0,480199.0,3.0,2.5,Paloma at West Creek,1434.0,819030.4232954546,2019.0,34.0,335.0,0.0,34.459162,-118.564578
+599,New Construction Home,Single Family Residential,24190 Paseo Del Rancho Dr,Santa Clarita,91354.0,583990.0,3.0,2.5,Valencia - Avanti at Westcreek,1938.0,819030.4232954546,2019.0,83.0,301.0,0.0,34.4535,-118.561
