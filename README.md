@@ -5,9 +5,9 @@ This project was developed entirely within Amazon SageMaker, using Jupyter Lab +
 
 ## Project Overview
 The following content of this README is exclusively exerpts from the full report included in this repository, titled 'report.pdf'.
-<br/>
+<br/><br/>
 This project focuses on real estate data, specifically past real estate sales and current real estate listings in Los Angeles County. Within the domain of real estate, this project will be considering how machine learning can be used to aid in identifying quality investment properties which can be purchased below market value, generally due to the property being in a distressed state, and then renovating the property in order for it to be sold at a profit. This process is commonly referred to as a “flip” within the domain of real estate.
-<br/>
+<br/><br/>
 Finding properties which present a successful margin for a real estate “flip” can be challenging. The best indicator of a profitable real estate investment is a property which can be acquired below 70% of the value at which it could potentially be sold if it were in like-new condition, also referred to as “after repair value” (ARV)[1]. The total cost of the anticipated repairs needs to be accounted for as well, but that requires a person to scope, design, and purchase. That overall renovation cost is then subtracted from the 70% of ARV to provide a maximum purchase price for this investment.
 
 ### Problem Statement
